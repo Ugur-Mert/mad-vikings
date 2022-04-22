@@ -35,10 +35,7 @@ export default function Home() {
       </Row>
       <Row className="justify-content-md-center">
         <Col xl="auto">
-          <Image
-            fluid
-            src="https://media.discordapp.net/attachments/840131151321628672/877561215696637982/1.png.f6d499d888e7118ba525b4b0777dbfb6.png"
-          />
+          <Image src="https://media.discordapp.net/attachments/840131151321628672/877561215696637982/1.png.f6d499d888e7118ba525b4b0777dbfb6.png" />
         </Col>
       </Row>
     </Container>

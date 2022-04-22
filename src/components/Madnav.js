@@ -5,8 +5,8 @@ import Image from "react-bootstrap/Image";
 
 export default function Madnav() {
   return (
-    <Navbar fluid sticky="top" variant="dark" expand="lg">
-      <Container fluid className="navbar">
+    <Navbar sticky="top" variant="dark" expand="lg">
+      <Container className="navbar">
         <Navbar.Brand href="#home">
           <Image
             fluid
