@@ -1,11 +1,12 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Madnav from "./components/Madnav";
+import Home from "./components/Home";
 function App() {
   return (
     <div className="Container">
       <Madnav />
-      <h1>Hi Mad Vikings</h1>
+      <Home />
     </div>
   );
 }

@@ -1,0 +1,14 @@
+.hamburger {
+  text-align: end;
+}
+.navbar-buttons {
+  text-align: end;
+}
+.navbar {
+  background-color: #741414;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.nav-image {
+  width: 40px;
+}
